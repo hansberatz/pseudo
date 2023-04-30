@@ -1,0 +1,14 @@
+.contenedor{
+
+	/* display: inline-flex; */
+	display: flex;
+}
+
+.item{
+	background-color: green;
+	width: 800px;
+	height: 500px;
+	margin: 100px;
+	font-size: 500px;}
+
+}
